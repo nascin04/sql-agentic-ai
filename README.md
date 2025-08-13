@@ -1,1 +1,1 @@
-# sql-agentic-ai
+# SQL Agentic AI
